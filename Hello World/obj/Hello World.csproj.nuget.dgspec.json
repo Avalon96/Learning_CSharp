@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj": {}
+    "F:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj": {}
   },
   "projects": {
-    "f:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj": {
+    "F:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj",
+        "projectUniqueName": "F:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj",
         "projectName": "Hello World",
-        "projectPath": "f:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj",
+        "projectPath": "F:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\Hello World.csproj",
         "packagesPath": "C:\\Users\\Avalon\\.nuget\\packages\\",
-        "outputPath": "f:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\obj\\",
+        "outputPath": "F:\\Workspace\\VSCodeWorkspace\\Learning_CSharp\\Hello World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Avalon\\AppData\\Roaming\\NuGet\\NuGet.Config"
