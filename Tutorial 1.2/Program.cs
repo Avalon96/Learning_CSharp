@@ -13,6 +13,7 @@ Console.WriteLine(false);
 // The var keyword is used to save on keystrokes when types are lengthy
 // or when the type is obvious from the context.
 var x = "Hello world!";   // x became a string
+Console.WriteLine(x);
 
 /*
 #Exercise
